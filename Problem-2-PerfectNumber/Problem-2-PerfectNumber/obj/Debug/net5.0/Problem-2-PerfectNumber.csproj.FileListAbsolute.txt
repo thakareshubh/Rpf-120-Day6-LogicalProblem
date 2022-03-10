@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\bin\Debug\net5.0\Problem-2-PerfectNumber.exe
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\bin\Debug\net5.0\Problem-2-PerfectNumber.deps.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\bin\Debug\net5.0\Problem-2-PerfectNumber.runtimeconfig.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\bin\Debug\net5.0\Problem-2-PerfectNumber.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\bin\Debug\net5.0\Problem-2-PerfectNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\bin\Debug\net5.0\Problem-2-PerfectNumber.pdb
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.AssemblyInfo.cs
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\refint\Problem-2-PerfectNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.pdb
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\Problem-2-PerfectNumber.genruntimeconfig.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-2-PerfectNumber\Problem-2-PerfectNumber\obj\Debug\net5.0\ref\Problem-2-PerfectNumber.dll
