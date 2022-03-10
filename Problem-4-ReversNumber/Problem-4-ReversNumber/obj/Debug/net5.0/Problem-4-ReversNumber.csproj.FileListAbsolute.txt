@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\bin\Debug\net5.0\Problem-4-ReversNumber.exe
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\bin\Debug\net5.0\Problem-4-ReversNumber.deps.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\bin\Debug\net5.0\Problem-4-ReversNumber.runtimeconfig.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\bin\Debug\net5.0\Problem-4-ReversNumber.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\bin\Debug\net5.0\Problem-4-ReversNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\bin\Debug\net5.0\Problem-4-ReversNumber.pdb
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.AssemblyInfo.cs
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\refint\Problem-4-ReversNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.pdb
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\Problem-4-ReversNumber.genruntimeconfig.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-4-ReversNumber\Problem-4-ReversNumber\obj\Debug\net5.0\ref\Problem-4-ReversNumber.dll
