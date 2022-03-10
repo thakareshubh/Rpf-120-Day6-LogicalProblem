@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\bin\Debug\net5.0\Problem-3-primeNumber.exe
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\bin\Debug\net5.0\Problem-3-primeNumber.deps.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\bin\Debug\net5.0\Problem-3-primeNumber.runtimeconfig.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\bin\Debug\net5.0\Problem-3-primeNumber.runtimeconfig.dev.json
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\bin\Debug\net5.0\Problem-3-primeNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\bin\Debug\net5.0\Problem-3-primeNumber.pdb
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.AssemblyInfo.cs
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\refint\Problem-3-primeNumber.dll
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.pdb
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\Problem-3-primeNumber.genruntimeconfig.cache
+D:\.net\Rpf-120-Day6-Assingment\Problem-3-primeNumber\Problem-3-primeNumber\obj\Debug\net5.0\ref\Problem-3-primeNumber.dll
